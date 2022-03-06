@@ -1,3 +1,4 @@
 test_images/
 output_logs/
 .spyproject/
+env/
