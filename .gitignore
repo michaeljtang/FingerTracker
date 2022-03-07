@@ -1,4 +1,10 @@
+#For input and output folders
 test_images/
 output_logs/
+
+#For individuals' unusual setups
 .spyproject/
 env/
+
+#For MacOS
+.DS_Store
